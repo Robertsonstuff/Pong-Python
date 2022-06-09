@@ -1,4 +1,4 @@
-from contextlib import redirect_stderr
+
 import pygame
 pygame.init()
 
