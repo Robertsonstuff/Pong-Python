@@ -1,2 +1,3 @@
 # Pong-Python
 A quick intro to pygame and pong. More comments coming...
+1 dependancy here: create a virtual environment, Pip install pygame, and your are off to the pong game!!
